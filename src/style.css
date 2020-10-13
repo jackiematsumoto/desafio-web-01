@@ -4,3 +4,43 @@
 }
 
 /* Seu código css aqui */
+article {
+  width: 680px;
+  margin: 40px auto;
+}
+  
+h1 {
+  font: 48px 'Lora', sans-serif;
+  color: #292929;
+  margin: 0 0 18px 0;
+}
+
+h2 {
+  font: bold 24px 'Lora', sans-serif;
+  color: #757575;
+  margin: 0 0 50px 0;
+}
+
+p {
+  font: 20px/32px 'Lora', sans-serif;
+  color: #292929;
+}
+
+a {
+  color: #292929;
+}
+
+figure {
+    margin: 0 0 30px 0;
+}
+
+figcaption {
+  font: 16px 'Lora', sans-serif;
+  color: #757575;
+  text-align: center;
+  margin: 10 px 0 0 0; 
+}
+
+figcaption a {
+  color: #0709b6;
+}
